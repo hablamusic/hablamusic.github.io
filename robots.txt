@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hablamusic.github.io/sitemap.xml
+Sitemap: https://hablamusic.github.io/bpm-key-finder/sitemap.xml
+Sitemap: https://hablamusic.github.io/camelot-wheel/sitemap.xml
+Sitemap: https://hablamusic.github.io/awesome-ai-dj-prompts/sitemap.xml
